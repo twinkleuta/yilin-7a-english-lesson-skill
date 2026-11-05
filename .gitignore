@@ -1,0 +1,7 @@
+# 本地临时文件
+*.pdf
+*.docx
+*.txt
+output/
+__pycache__/
+.env
